@@ -1,135 +1,71 @@
-# E N T R   ◯•   P O R A
+# Artomatica
 
-**Building systems that convert entropy into intelligence.**
+**Research, engineering, and product development for practical intelligent systems.**
 
-Entropora is a research-driven engineering organization exploring the next generation of **agentic systems, computational infrastructure, and applied AI**.
+Artomatica builds software and hardware-aware systems that turn complex workflows into usable products. The work spans applied AI, developer tooling, embedded systems, automation, and production infrastructure.
 
-We believe the most powerful organizations of the coming decade will not be traditional companies, but **self-improving computational systems**: networks of humans and machines that design, test, and evolve solutions faster than any centralized structure.
-
-Our work focuses on building those systems.
-
-Entropora comes from entropy and poros, meaning channels through complexity. *We build systems that turn the chaos of information into structured intelligence.*
+We focus on projects that can move from prototype to real-world deployment.
 
 ---
 
-## What We Do
+## What We Build
 
-Entropora develops infrastructure and applications across three core layers:
+### Applied AI Products
 
-### 1. Agentic Systems
-Autonomous and semi-autonomous software systems capable of planning, building, testing, and improving complex projects.
+Desktop, mobile, and cloud systems that make AI useful in everyday workflows.
 
-Examples:
-- multi-agent orchestration
-- autonomous software engineering
-- self-evolving project architectures
-- company-scale AI systems
+- voice-first tools
+- local and hybrid AI applications
+- model packaging and deployment
+- privacy-aware automation
 
-### 2. Computational Intelligence
-Tools and frameworks that improve how humans and machines reason about complex systems.
+### Hardware-Aware Automation
 
-Examples:
-- epistemic tooling
-- knowledge synthesis engines
-- recursive modeling systems
-- research copilots
+Systems that connect software intelligence to physical devices and operational environments.
 
-### 3. Applied AI Infrastructure
-Practical systems that deploy intelligence into real-world domains.
+- embedded firmware
+- sensor platforms
+- fleet management
+- device dashboards
 
-Examples:
-- AI-driven hardware design
-- commerce automation
-- scientific discovery tools
-- operational AI for companies
+### Engineering Infrastructure
+
+Tools and services that make complex products easier to build, ship, and maintain.
+
+- build and release pipelines
+- model registries
+- observability and diagnostics
+- developer workflows
 
 ---
 
-## Our Philosophy
+## Current Focus
 
-We operate under a simple principle:
+Active work includes:
 
-> Intelligence is the process that converts uncertainty into structure.
+- Heydict: voice-driven desktop productivity
+- MiniR: Android and edge-device fleet sensing
+- Pickflow firmware: embedded automation for sensor nodes
+- model registry tooling for local speech and AI artifacts
 
-Most organizations try to reduce complexity.  
-We build systems that **navigate it.**
-
-Our approach combines:
-
-- first-principles reasoning  
-- recursive system design  
-- agentic software architectures  
-- rapid experimental iteration  
-
-The goal is not incremental improvement.  
-The goal is **order-of-magnitude capability gains.**
+Some projects are public. Others remain private while they are in active product development.
 
 ---
 
-## Why Entropora
+## Principles
 
-The next wave of technological progress will not come from single products.
+We prefer systems that are:
 
-It will come from **systems that continuously invent better systems.**
-
-We are building the infrastructure for that.
-
----
-
-## Current Focus Areas
-
-Active exploration areas include:
-
-- agent orchestration architectures
-- autonomous development systems
-- self-improving software organizations
-- AI-native company structures
-- large-scale knowledge synthesis
-- intelligence infrastructure for startups
-
-Many of our projects begin as internal research systems and later evolve into independent products or companies.
+- useful before they are polished
+- local-first where privacy matters
+- observable and testable
+- designed for deployment, not demos
+- simple enough to operate under pressure
 
 ---
 
-## Open Collaboration
+## Collaboration
 
-We collaborate with:
+Artomatica works with engineers, product builders, researchers, and operators who care about turning working prototypes into durable systems.
 
-- engineers
-- researchers
-- founders
-- system thinkers
-
-If you enjoy working on problems that sit at the edge of **AI, systems design, and scientific reasoning**, you will likely feel at home here.
-
----
-
-## Founders
-
-**Lorenz Sauer**  
-Computational systems thinker focused on AI, complex systems, and recursive modeling.
-
-**Andrii Shylenko**  
-Systems builder specializing in execution, infrastructure, and hardware-aware engineering.
-
-Together we explore how intelligence systems can design, build, and evolve organizations.
-
----
-
-## Philosophy in One Sentence
-
-**Turn chaos into capability.**
-
----
-
-## Contact
-
-If you want to collaborate or explore ideas:
-
-- open an issue
-- start a discussion
-- reach out directly
-
-We are always interested in meeting people who think in **systems, first principles, and long time horizons.**
-
----
+For public projects, open an issue or discussion in the relevant repository.
