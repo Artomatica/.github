@@ -39,13 +39,6 @@ Tools and services that make complex products easier to build, ship, and maintai
 
 ---
 
-## Current Focus
-
-
-Some projects are public. Others remain private while they are in active product development.
-
----
-
 ## Principles
 
 We prefer systems that are:
