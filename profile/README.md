@@ -41,12 +41,6 @@ Tools and services that make complex products easier to build, ship, and maintai
 
 ## Current Focus
 
-Active work includes:
-
-- Heydict: voice-driven desktop productivity
-- MiniR: Android and edge-device fleet sensing
-- Pickflow firmware: embedded automation for sensor nodes
-- model registry tooling for local speech and AI artifacts
 
 Some projects are public. Others remain private while they are in active product development.
 
